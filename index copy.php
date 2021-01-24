@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <a
+    <title>Learn CSS in one Video</title>
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
